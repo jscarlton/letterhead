@@ -1,6 +1,6 @@
 Here's my Pandoc letterhead template, adapted from [Scott Hartley](https://blog.hartleygroup.org/2015/08/01/a-pandoc-template-for-letterhead/). Requires the IISG logo and a copy of Stuart's signature to be placed in a support-file directory. It also requires [Fira Sans](https://github.com/bBoxType/FiraSans) and [ETBembo](https://github.com/edwardtufte/et-book) fonts, both of which are available for free (as in freedom).
 
-See `test.markdown` for an example letter. The important part is the metadata block in the beginning and the letter header.
+See `test.markdown` for an example letter file and `test.pdf` for example output. The important part is the metadata block in the beginning and the letter header.
 
 Here's the metadata block:
 
