@@ -21,7 +21,7 @@
 \usepackage{fontspec}
 \defaultfontfeatures{Mapping=tex-text}  % Sets quotation marks.
 \setromanfont{ETBembo RomanLF}
-\setsansfont[BoldFont={Fira Sans Bold}]{Fira Sans Regular}
+\setsansfont[BoldFont={Fira Sans SemiBold}]{Fira Sans Regular}
 \setmonofont[Scale=MatchLowercase]{Inconsolata}
 
 % From default template
