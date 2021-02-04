@@ -4,6 +4,7 @@
 \usepackage[letterpaper,margin=1.3in]{geometry}
 \usepackage{graphicx}
 \usepackage{fixltx2e}
+\usepackage{longtable}
 \usepackage{booktabs}
 
 
