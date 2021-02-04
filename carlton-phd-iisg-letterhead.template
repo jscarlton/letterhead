@@ -4,8 +4,8 @@
 \usepackage[letterpaper,margin=1.3in]{geometry}
 \usepackage{graphicx}
 \usepackage{fixltx2e}
-\usepackage{longtable}
 \usepackage{booktabs}
+
 
 % Adds microtypography features: character protrusion, for XeTeX.
 \usepackage{microtype}
@@ -45,7 +45,7 @@
             \fontsize{7pt}{7pt}{
                 \fontspec{Fira Sans Regular}
                 \vspace{.3in}
-                \href{http://www.jscarlton.net}{\textbf{J.\ Stuart Carlton}}\\
+                \href{http://www.jscarlton.net}{\textbf{J.\ Stuart Carlton, Ph.D.}}\\
                 \href{http://iiseagrant.org}{Illinois-Indiana Sea Grant}\\
                     Purdue University\vspace{6pt}\\
                 195 Marsteller St.\\
@@ -78,7 +78,7 @@ $if(sig.include)$
     $endif$
     \\
     \\
-    J. Stuart Carlton\\
+    J. Stuart Carlton, Ph.D.\\
     $if(sig.post)$
     Assistant Director,\\
     Illinois-Indiana Sea Grant
