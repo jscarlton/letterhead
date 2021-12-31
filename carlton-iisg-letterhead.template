@@ -45,8 +45,10 @@
             \fontsize{7pt}{7pt}{
                 \fontspec{Fira Sans Regular}
                 \vspace{.3in}
-                \href{http://www.jscarlton.net}{\textbf{J.\ Stuart Carlton}}\\
+                \href{http://www.jscarlton.net}{\textbf{J.\ Stuart Carlton, Ph.D.}}\\
                 \href{http://iiseagrant.org}{Illinois-Indiana Sea Grant}\\
+                \href{https://ag.purdue.edu/fnr/Pages/default.aspx}{Department of Forestry \&}\\
+                \href{https://ag.purdue.edu/fnr/Pages/default.aspx}{Natural Resources}\\
                     Purdue University\vspace{6pt}\\
                 195 Marsteller St.\\
                 West Lafayette, IN 47906\\
@@ -62,7 +64,7 @@
 
 \header
 
-\smallskip
+\bigskip
 
 $body$
 
@@ -81,7 +83,11 @@ $if(sig.include)$
     J. Stuart Carlton\\
     $if(sig.post)$
     Assistant Director,\\
-    Illinois-Indiana Sea Grant
+	Illinois-Indiana Sea Grant\\
+     \\
+    Research Assistant Professor\\
+    Department of Forestry \& Natural Resources\\
+    Purdue University 
     $endif$
     \end{minipage}
 $endif$
